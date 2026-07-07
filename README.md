@@ -30,5 +30,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3861-minimum-capacity-box](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/3861-minimum-capacity-box) |
 <!---LeetCode Topics End-->
