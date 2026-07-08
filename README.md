@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0043-multiply-strings) |
+| [0189-rotate-array](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0415-add-strings) |
 ## Recursion
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -56,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
