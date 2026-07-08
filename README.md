@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3861-minimum-capacity-box](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/3861-minimum-capacity-box) |
 ## Hash Table
@@ -55,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
