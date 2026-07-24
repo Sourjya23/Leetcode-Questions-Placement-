@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0415-add-strings) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0268-missing-number) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0169-majority-element) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2351-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
