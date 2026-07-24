@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0485-max-consecutive-ones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2239-find-closest-number-to-zero](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2239-find-closest-number-to-zero) |
 | [3861-minimum-capacity-box](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/3861-minimum-capacity-box) |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Greedy
+|  |
+| ------- |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 <!---LeetCode Topics End-->
