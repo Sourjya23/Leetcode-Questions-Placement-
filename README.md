@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3701-compute-alternating-sum](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/3701-compute-alternating-sum) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2239-find-closest-number-to-zero](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2239-find-closest-number-to-zero) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3701-compute-alternating-sum](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/3701-compute-alternating-sum) |
 | [3861-minimum-capacity-box](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/3861-minimum-capacity-box) |
 ## Hash Table
 |  |
