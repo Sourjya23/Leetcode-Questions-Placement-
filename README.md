@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2239-find-closest-number-to-zero](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2239-find-closest-number-to-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/3701-compute-alternating-sum) |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
