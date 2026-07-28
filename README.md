@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1512-number-of-good-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
