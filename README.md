@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0560-subarray-sum-equals-k) |
+| [1089-duplicate-zeros](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1089-duplicate-zeros) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0283-move-zeroes) |
+| [1089-duplicate-zeros](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1089-duplicate-zeros) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
