@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2239-find-closest-number-to-zero](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2239-find-closest-number-to-zero) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0073-set-matrix-zeroes) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Prefix Sum
 |  |
 | ------- |
