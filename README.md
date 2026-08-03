@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0043-multiply-strings) |
+| [0290-word-pattern](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0415-add-strings) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0560-subarray-sum-equals-k) |
