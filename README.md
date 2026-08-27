@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0560-subarray-sum-equals-k) |
 | [1089-duplicate-zeros](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1089-duplicate-zeros) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0383-ransom-note) |
+| [0525-contiguous-array](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1512-number-of-good-pairs) |
@@ -172,5 +174,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
