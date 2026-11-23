@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/0415-add-strings) |
 | [1512-number-of-good-pairs](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1512-number-of-good-pairs) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2235-add-two-integers](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2235-add-two-integers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sourjya23/Leetcode-Questions-Placement-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
